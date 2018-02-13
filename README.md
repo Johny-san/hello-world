@@ -1,4 +1,4 @@
 # hello-world
 Test Test
 
-I wish to Grok like i never Groked before.
+I wish to Grok like i never Grokked before.
